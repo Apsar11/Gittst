@@ -1,3 +1,6 @@
 [submodule "prject2"]
 	path = prject2
 	url = https://github.com/Apsar11/Gittst.git
+[submodule "Apsar"]
+	path = Apsar
+	url = https://github.com/Apsar11/Gittst.git
